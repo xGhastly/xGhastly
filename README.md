@@ -7,7 +7,6 @@
 Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer currently expanding my skills in JavaScript and TypeScript while focusing on back-end development with Node.js and Express. I'm pursuing a degree in Systems Analysis and Development at Centro Universitário Leonardo da Vinci (Uniasselvi), with expected completion in 2026.<br>
 I’m dedicated to continuous learning and adapting to new challenges, with certifications and hands-on experience in web development, including HTML5, CSS3, SASS, Bootstrap, React, and noSQL. Currently, I’m refining my expertise in modern web technologies and software design patterns.
 
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
 # 💻 Tech Stack:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> 
