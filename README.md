@@ -4,7 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer currently expanding my skills in JavaScript and TypeScript while focusing on back-end development with Node.js and Express. I'm pursuing a degree in Systems Analysis and Development at Centro Universitário Leonardo da Vinci (Uniasselvi), with expected completion in 2026.
+Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer currently expanding my skills in JavaScript and TypeScript while focusing on back-end development with Node.js and Express. I'm pursuing a degree in Systems Analysis and Development at Centro Universitário Leonardo da Vinci (Uniasselvi), with expected completion in 2026.<br>
+I’m dedicated to continuous learning and adapting to new challenges, with certifications and hands-on experience in web development, including HTML5, CSS3, SASS, Bootstrap, React, and noSQL. Currently, I’m refining my expertise in modern web technologies and software design patterns.
 
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
@@ -28,5 +29,3 @@ Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer current
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGhastly&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=xGhastly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/xGhastly/xGhastly/blob/output/github-contribution-grid-snake.svg)
