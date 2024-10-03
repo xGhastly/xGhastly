@@ -1,12 +1,22 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Augusto and my nickname is xGhastly!
+<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
+<h2 align="center">My name is João Augusto and my nickname is xGhastly!</h2>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I am currently learning JavaScript and TypeScript, developing back-end applications with Node.js and Express.
+# 💫 About Me:
+Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer currently expanding my skills in JavaScript and TypeScript while focusing on back-end development with Node.js and Express. I'm pursuing a degree in Systems Analysis and Development at Centro Universitário Leonardo da Vinci (Uniasselvi), with expected completion in 2026.
 
-- ## Contatos:
+![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+
+# 💻 Tech Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+
+- #📞 Contatos:
 
 <div>
-<a href = "mailto:joaoaugustozm@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaoaugustozm@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao-augustozm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
