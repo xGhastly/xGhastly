@@ -14,8 +14,8 @@ Hi, I'm João Augusto Zambon Monteiro, a passionate Full Stack Developer current
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" />
 
-- #📞 Contatos:
 
+# 📞 Contatos:
 <div>
 <a href = "mailto:joaoaugustozm@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao-augustozm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
