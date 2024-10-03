@@ -24,7 +24,7 @@ I’m dedicated to continuous learning and adapting to new challenges, with cert
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
+<div align-items="center">
 <a href="https://github.com/xGhastly">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGhastly&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=xGhastly&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
